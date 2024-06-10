@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout/logo/incognia</title>
+    <defs>
+        <linearGradient x1="44.2859375%" y1="75.0335938%" x2="63.1289063%" y2="-7.51640625%" id="linearGradient-1">
+            <stop stop-color="#47304D" offset="19.2%"></stop>
+            <stop stop-color="#93279F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0504348%" y1="85.8782023%" x2="68.2667391%" y2="-16.7397183%" id="linearGradient-2">
+            <stop stop-color="#47304D" offset="19.2%"></stop>
+            <stop stop-color="#93279F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.847482%" y1="106.418814%" x2="80.2269784%" y2="-65.1665972%" id="linearGradient-3">
+            <stop stop-color="#47304D" offset="19.2%"></stop>
+            <stop stop-color="#93279F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Android" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash" transform="translate(-163.000000, -370.000000)" fill-rule="nonzero">
+            <g id="incognia-logo" transform="translate(163.000000, 370.000000)">
+                <path d="M32,0 C14.4,0 0,14.4 0,32 C0,49.6 14.4,64 32,64 C49.6,64 64,49.6 64,32 C64,14.4 49.6,0 32,0 M32,59.9 C16.6,59.9 4.1,47.4 4.1,32 C4.1,16.6 16.6,4.1 32,4.1 C47.4,4.1 59.9,16.6 59.9,32 C59.9,47.4 47.4,59.9 32,59.9" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M32,9 C19.3,9 9,19.3 9,32 C9,39.3 12.5,45.9 17.8,50.1 C18.4,48.8 19.2,47.7 20,46.6 C15.8,43.1 13.1,37.9 13.1,32 C13.1,21.6 21.6,13.1 32,13.1 C42.4,13.1 50.9,21.6 50.9,32 C50.9,37.9 48.2,43.1 44,46.6 C44.8,47.7 45.6,48.8 46.2,50.1 C51.6,45.9 55,39.3 55,32 C55,19.3 44.7,9 32,9" id="Path" fill="url(#linearGradient-2)"></path>
+                <path d="M32,18.1 C24.3,18.1 18.1,24.4 18.1,32 C18.1,36.6 20.3,40.6 23.7,43.2 C25.1,42.2 26.5,41.5 28.1,41 C24.6,39.5 22.2,36 22.2,32 C22.2,26.6 26.6,22.2 32,22.2 C37.4,22.2 41.8,26.6 41.8,32 C41.8,36 39.4,39.5 35.9,41 C37.5,41.5 39,42.2 40.3,43.1 C43.7,40.6 45.9,36.5 45.9,32 C45.9,24.3 39.7,18.1 32,18.1" id="Path" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
